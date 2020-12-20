@@ -6,6 +6,6 @@ public class SensorHead extends Head {
     }
     @Override
     public String toString() {
-        return "SensorHead-"+super.getId();
+        return "sensor-"+super.getId();
     }
 }

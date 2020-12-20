@@ -7,6 +7,6 @@ public class EmitterHead extends Head {
 
     @Override
     public String toString() {
-        return "EmitterHead-"+super.getId();
+        return "emitter-" + super.getId();
     }
 }

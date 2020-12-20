@@ -7,6 +7,6 @@ public class AirBody extends Body {
 
     @Override
     public String toString() {
-        return "AirBody-"+super.getId();
+        return "air-" + super.getId();
     }
 }
